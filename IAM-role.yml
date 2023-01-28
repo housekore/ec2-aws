@@ -1,4 +1,5 @@
-# This example shows how you might create an identity-based policy that allows an IAM user to start or stop EC2 instances, but only if the instance tag Owner has the value of that user's user name. This policy defines permissions for programmatic and console access.
+# This example shows how you might create an identity-based policy that allows an IAM user to start or stop EC2 instances, 
+# but only if the instance tag Owner has the value of that user's user name. This policy defines permissions for programmatic and console access.
 
 {
     "Version": "2012-10-17",
